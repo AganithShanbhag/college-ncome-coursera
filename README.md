@@ -1,2 +1,2 @@
-# college-ncome-coursera
+# college-Income-coursera
 Coursera optional assignment
